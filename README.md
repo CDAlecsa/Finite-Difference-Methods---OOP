@@ -10,5 +10,3 @@ This a data repository concerning an OOP implementation in Python for backward E
 
 'Mesh.py':
 - The finite difference mesh class, that contains parameters like : initial value, initial time, final time, grid and length of the vector representation.
-
-# Copyright © 2019 Cristian Daniel Alecsa
